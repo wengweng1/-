@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/LostAndFound-1/AddGoods.jsp" value="file://$PROJECT_DIR$/web/LostAndFound-1" />
+        <entry key="file://$PROJECT_DIR$/web/LostAndFound-1/personage.jsp" value="file://$PROJECT_DIR$/web/LostAndFound-1" />
+        <entry key="file://$PROJECT_DIR$/web/admin/Goods/Lost_Goods-Add.jsp" value="file://$PROJECT_DIR$/web/admin/Goods" />
+        <entry key="file://$PROJECT_DIR$/web/admin/Goods/Lostgoods.jsp" value="file://$PROJECT_DIR$/web/admin/Goods" />
+      </map>
+    </option>
+  </component>
+</project>

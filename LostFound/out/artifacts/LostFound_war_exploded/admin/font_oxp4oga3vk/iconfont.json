@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5722703",
+      "name": "失物招领",
+      "font_class": "shiwuzhaoling",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
